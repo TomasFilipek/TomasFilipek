@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tomas Filipek
+- 👋 Hi, I’m Tomáš Filípek
 - 👀 I’m interested in new technologies and creating something valuable (mostly mobile apps)
 - 📚 I’m currently learning C# and Javascript and I would like to extend my knowledge with React and other technologies connected with mobile/desktop apps
 - 💞️ I’m looking to collaborate on any project with interesting idea behind
